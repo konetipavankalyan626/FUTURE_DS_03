@@ -36,10 +36,15 @@ TextBlob = 	Sentiment analysis (NLP)
 ## 📂 Project Files
 
 Student-Feedback-Analysis/
+
 │
+
 ├── Student_Feedback_Analysis.ipynb   # Main analysis notebook
+
 ├── dataset.csv                       # Feedback dataset
+
 ├── collage.png                       # Screenshot collage
+
 └── README.md                         # Project documentation
 
 ## 📊 Key Features
