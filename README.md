@@ -23,13 +23,13 @@ The goal is to help educational institutions make data-driven decisions that imp
 
 ## 🛠 Tools & Technologies Used
 
-Tool / Library	Purpose
+Tool / Library = Purpose
 
-Google Colab	Online environment (no setup needed)
+Google Colab	= Online environment (no setup needed)
 
-pandas	Data cleaning & transformation
+pandas	 = Data cleaning & transformation
 
-matplotlib	Data visualization
+matplotlib = 	Data visualization
 
-TextBlob	Sentiment analysis (NLP)
+TextBlob = 	Sentiment analysis (NLP)
 
