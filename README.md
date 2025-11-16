@@ -80,7 +80,7 @@ Negative comments highlight opportunities for improvement
 
 This analysis helps educators and institutions understand student perspectives more effectively.
 
-🧠 How It Works (Simplified Flow)
+## 🧠 How It Works (Simplified Flow)
 
 Import dataset
 
@@ -98,7 +98,8 @@ Generate insights
 
 Below is the combined screenshot from the notebook:
 
-![Dashboard Screenshot](collage.png)
+![Dashboard Screenshot]<img width="784" height="2645" alt="collage" src="https://github.com/user-attachments/assets/9ca80dd8-411f-4970-bc4b-ffb3323e6975" />
+
 
 ## 🏁 Conclusion
 
