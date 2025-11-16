@@ -98,7 +98,7 @@ Generate insights
 
 Below is the combined screenshot from the notebook:
 
-![Dashboard Screenshot]<img width="784" height="2645" alt="collage" src="https://github.com/user-attachments/assets/9ca80dd8-411f-4970-bc4b-ffb3323e6975" />
+<img width="784" height="2645" alt="collage" src="https://github.com/user-attachments/assets/9ca80dd8-411f-4970-bc4b-ffb3323e6975" />
 
 
 ## 🏁 Conclusion
