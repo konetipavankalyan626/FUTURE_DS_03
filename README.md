@@ -33,3 +33,39 @@ matplotlib = 	Data visualization
 
 TextBlob = 	Sentiment analysis (NLP)
 
+## 📂 Project Files
+
+Student-Feedback-Analysis/
+│
+├── Student_Feedback_Analysis.ipynb   # Main analysis notebook
+├── dataset.csv                       # Feedback dataset
+├── collage.png                       # Screenshot collage
+└── README.md                         # Project documentation
+
+## 📊 Key Features
+
+###✔ Sentiment Classification
+
+Analyzes each student comment
+
+Labels it as Positive, Negative, or Neutral
+
+Calculates polarity scores using TextBlob
+
+### ✔ Data Visualizations
+
+Bar chart of sentiment distribution
+
+Count of total positive/negative/neutral reviews
+
+Summary statistics
+
+### ✔ Insights Generated
+
+Percentage of positive feedback
+
+Most common sentiment
+
+Potential improvement areas
+
+Understanding student expectations
