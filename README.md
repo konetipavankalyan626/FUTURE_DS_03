@@ -110,3 +110,20 @@ Below is the combined screenshot from the notebook:
 
 This project shows how simple NLP techniques can turn raw text into meaningful insights.
 Sentiment analysis can help educational institutions improve teaching quality and solve student concerns faster.
+
+
+## 👨‍💻 Author
+
+### Koneti Pavan Kalyan
+
+Aspiring Data Analyst | Power BI | SQL | Python | Excel
+
+Passionate about transforming raw data into meaningful insights through dashboards, statistical analysis, and data storytelling.
+
+📍 Location: Bengaluru, India
+
+
+🔗 LinkedIn: https://www.linkedin.com/in/pavankalyan585/
+
+📧 Email: konetipavankalyan225@gmail.com
+
